@@ -3,8 +3,8 @@
 [core]
     editor = nvim
 [user]
-    name = Melker Widén
-    email = melker.widen@gmail.com
+    name = Tim Johansson
+    email = tim@ejc.nu
 [pull]
     rebase = true
 [push]

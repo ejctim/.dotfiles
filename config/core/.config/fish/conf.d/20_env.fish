@@ -20,3 +20,6 @@ end
 
 # Java environment
 set -gx JAVA_HOME /usr/lib/jvm/java-21-openjdk
+
+# Haskell
+set -gx GHCUP_USE_XDG_DIRS 1
